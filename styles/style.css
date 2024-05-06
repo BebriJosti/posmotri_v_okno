@@ -95,7 +95,6 @@ ol {
 
 .search-form__fieldset {
     border: none;
-    margin: 0 0 5px 0;
 }
 
 .search-form__textfield:focus {
@@ -195,8 +194,8 @@ ol {
 .search-form__checkbox-list {
     display: flex;
     justify-content: space-between;
-    margin-top: 5px;
     gap: 15px;
+    margin: 5px 0 5px 0;
 }
 
 .search-form__submit-button {
