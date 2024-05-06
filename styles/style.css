@@ -95,7 +95,7 @@ ol {
 
 .search-form__fieldset {
     border: none;
-    width: 225px;
+    margin: 0 0 5px 0;
 }
 
 .search-form__textfield:focus {
@@ -164,7 +164,8 @@ ol {
     padding: 0;
     cursor: pointer;
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .search-form__label:hover {
